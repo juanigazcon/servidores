@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Marquisse",
+    "price": 4000,
+    "thumbnail": "https://juanigazcon.github.io/entrega/Images/Productos/marquisse.jpg",
+    "id": 1
+  },
+  {
+    "title": "Rogel",
+    "price": 3800,
+    "thumbnail": "https://juanigazcon.github.io/entrega/Images/Productos/torta-rogel.jpg",
+    "id": 2
+  },
+  {
+    "title": "Cheesecake",
+    "price": 4500,
+    "thumbnail": "https://juanigazcon.github.io/entrega/Images/Productos/cheesecake.jpg",
+    "id": 3
+  }
+]
